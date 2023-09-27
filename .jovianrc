@@ -1,0 +1,10 @@
+{
+  "notebooks": {
+    "python-pandas-data-analysis.ipynb": {
+      "slug": "860ad012a7d24547a77e67a81a063182"
+    },
+    "pandas-practice-assignment.ipynb": {
+      "slug": "c336ea0083fc4feeb25f60f69449c62b"
+    }
+  }
+}
