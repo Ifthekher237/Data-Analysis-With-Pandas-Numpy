@@ -8,12 +8,17 @@ This repository contains Jupyter notebooks and code examples demonstrating vario
 
 ## Contents
 
-1. [Introduction to Pandas](notebooks/01-introduction-to-pandas.ipynb)
-2. [Data Manipulation with Pandas](notebooks/02-data-manipulation-with-pandas.ipynb)
-3. [Advanced Data Analysis with Pandas](notebooks/03-advanced-data-analysis-with-pandas.ipynb)
-4. [Numerical Computing with Numpy](notebooks/04-numerical-computing-with-numpy.ipynb)
-5. [Combining Pandas and Numpy](notebooks/05-combining-pandas-and-numpy.ipynb)
-6. [Practical Data Analysis Projects](notebooks/06-practical-data-analysis-projects.ipynb)
+1. **Introduction to Pandas:** Get acquainted with Pandas and learn how to read, manipulate, and analyze data efficiently.
+
+2. **Data Manipulation with Pandas:** Dive deeper into Pandas to understand data cleaning, filtering, and transformation.
+
+3. **Advanced Data Analysis with Pandas:** Explore advanced Pandas functionalities for more in-depth data exploration.
+
+4. **Numerical Computing with Numpy:** Learn the basics of Numpy for efficient numerical computing and data manipulation.
+
+5. **Combining Pandas and Numpy:** Discover how to integrate Pandas and Numpy for powerful data analysis.
+
+6. **Practical Data Analysis Projects:** Apply your skills to real-world data analysis projects with step-by-step guidance.
 
 ## Acknowledgments
 
