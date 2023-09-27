@@ -24,6 +24,3 @@ This repository contains Jupyter notebooks and code examples demonstrating vario
 
 Special thanks to the open-source community for creating Pandas, Numpy, and Jupyter, making data analysis accessible to everyone.
 
-## Contribute
-
-If you'd like to contribute to this project, please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started.
